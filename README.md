@@ -26,7 +26,7 @@ You have been provided with a sample list of threat feed alerts which have trigg
 
 [Exercise 4 Threat Feed Alerts](exercise_4_threat_feed_alerts.csv)
 
-[Exercise 4 Forward DNS Data](exercise_4_foward_dns.csv)
+[Exercise 4 Forward DNS Data](exercise_4_forward_dns.csv)
 
 ## Hints
 The linux ````comm```` command can be used to compare similar lines between two files.  Here is an example of how to use the command
