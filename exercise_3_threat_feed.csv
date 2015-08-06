@@ -1,0 +1,11 @@
+ip,details,direction
+"79.171.124.211","C&C","outbound"
+"154.65.5.130","C&C","outbound"
+"31.192.105.59","Malicious Host","outbound"
+"61.176.221.52","Malicious Host","outbound"
+"94.73.150.120","Malware distribution","outbound"
+"157.112.152.48","Malware distribution","outbound"
+"37.48.85.16","Scanning Host","inbound"
+"37.48.85.17","Scanning Host","inbound"
+"174.34.160.218","Spamming","inbound"
+"69.94.157.88","Spamming","inbound"
